@@ -1,0 +1,294 @@
+/* ---------------------------------------------------------------------
+   Design tokens
+   Direction: a calm, high-trust "ops console" for civic infrastructure
+   planning — not a consumer map app. Red is reserved for the mandatory
+   safety banner only, so it stays meaningful instead of decorative.
+   ------------------------------------------------------------------- */
+:root {
+  --ink-950: #0a0f1a;
+  --ink-900: #0e1524;
+  --ink-800: #131c30;
+  --ink-700: #1b2740;
+  --ink-600: #29395a;
+  --line: #263452;
+
+  --text-primary: #e9eef7;
+  --text-secondary: #93a1ba;
+  --text-tertiary: #5f6d8a;
+
+  --signal-open: #2dd6b5;      /* likely open / available   */
+  --signal-open-bg: #12352f;
+  --signal-unknown: #f2b54c;   /* unknown hours / abstain   */
+  --signal-unknown-bg: #3a2f14;
+  --signal-closed: #8892a8;    /* likely closed — demoted, not alarming */
+  --signal-closed-bg: #1c2438;
+
+  --emergency-red: #e5484d;    /* reserved for the safety banner only */
+
+  --font-display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background: var(--ink-950);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+/* ---------------------------------------------------------------------
+   Safety banner — the one place red is allowed to appear
+   ------------------------------------------------------------------- */
+.safety-banner {
+  background: var(--emergency-red);
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 13.5px;
+  line-height: 1.5;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.safety-banner__icon { font-size: 16px; line-height: 1.4; }
+
+/* ---------------------------------------------------------------------
+   Top bar
+   ------------------------------------------------------------------- */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 22px;
+  border-bottom: 1px solid var(--line);
+  background: var(--ink-900);
+}
+.topbar__brand { display: flex; align-items: center; gap: 12px; }
+.topbar__mark {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--signal-open);
+  border: 1px solid var(--signal-open);
+  border-radius: var(--radius-sm);
+  padding: 4px 7px;
+}
+.topbar__title h1 {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.topbar__title p {
+  margin: 1px 0 0;
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+.topbar__dataset {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.topbar__count { margin-left: 8px; color: var(--text-tertiary); }
+.dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  display: inline-block; margin-left: 12px;
+}
+.dot--real { background: var(--signal-open); }
+.dot--synthetic {
+  background: transparent;
+  border: 1px solid var(--text-tertiary);
+}
+
+/* ---------------------------------------------------------------------
+   Layout
+   ------------------------------------------------------------------- */
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  height: calc(100vh - 84px);
+}
+.map-pane { position: relative; }
+#map { width: 100%; height: 100%; background: var(--ink-800); }
+.map-hint {
+  position: absolute;
+  bottom: 14px; left: 50%;
+  transform: translateX(-50%);
+  background: rgba(14, 21, 36, 0.92);
+  border: 1px solid var(--line);
+  padding: 7px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--text-secondary);
+  z-index: 1000;
+}
+
+.side-pane {
+  background: var(--ink-900);
+  border-left: 1px solid var(--line);
+  padding: 18px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ---------------------------------------------------------------------
+   Query controls
+   ------------------------------------------------------------------- */
+.query-controls h2 {
+  font-family: var(--font-display);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+  margin: 0 0 10px;
+}
+.field-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.field-row label { font-size: 13px; color: var(--text-secondary); }
+.field-row select, .field-row input {
+  background: var(--ink-800);
+  border: 1px solid var(--line);
+  color: var(--text-primary);
+  border-radius: var(--radius-sm);
+  padding: 6px 8px;
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+}
+.query-controls__hint {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  margin: 8px 0 0;
+  line-height: 1.5;
+}
+
+/* ---------------------------------------------------------------------
+   Tabs
+   ------------------------------------------------------------------- */
+.tabs { display: flex; gap: 6px; }
+.tab {
+  flex: 1;
+  background: var(--ink-800);
+  border: 1px solid var(--line);
+  color: var(--text-secondary);
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 12.5px;
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+.tab--active {
+  color: var(--ink-950);
+  background: var(--signal-open);
+  border-color: var(--signal-open);
+  font-weight: 600;
+}
+
+/* ---------------------------------------------------------------------
+   Results — "instrument panel" ledger cards
+   ------------------------------------------------------------------- */
+.results-list { display: flex; flex-direction: column; gap: 8px; }
+.results-empty { font-size: 13px; color: var(--text-tertiary); }
+
+.result-card {
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--signal-closed);
+  border-radius: var(--radius-sm);
+  background: var(--ink-800);
+  padding: 10px 12px;
+}
+.result-card[data-status="LIKELY_OPEN"] { border-left-color: var(--signal-open); }
+.result-card[data-status="UNKNOWN_HOURS"] { border-left-color: var(--signal-unknown); }
+.result-card[data-status="LIKELY_CLOSED"] { border-left-color: var(--signal-closed); }
+
+.result-card__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+}
+.result-card__building {
+  font-family: var(--font-display);
+  font-size: 13.5px;
+  font-weight: 600;
+}
+.result-card__rank {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-tertiary);
+}
+.result-card__desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin: 3px 0 8px;
+}
+.result-card__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+}
+.stat-label { color: var(--text-tertiary); }
+.status-chip {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.status-chip[data-status="LIKELY_OPEN"] { color: var(--signal-open); background: var(--signal-open-bg); }
+.status-chip[data-status="UNKNOWN_HOURS"] { color: var(--signal-unknown); background: var(--signal-unknown-bg); }
+.status-chip[data-status="LIKELY_CLOSED"] { color: var(--signal-closed); background: var(--signal-closed-bg); }
+.result-card__reason {
+  margin-top: 6px;
+  font-size: 11.5px;
+  color: var(--text-tertiary);
+  line-height: 1.4;
+}
+
+/* ---------------------------------------------------------------------
+   Method note + misc
+   ------------------------------------------------------------------- */
+.method-note {
+  font-size: 11.5px;
+  color: var(--text-tertiary);
+  line-height: 1.5;
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+.method-note code {
+  font-family: var(--font-mono);
+  background: var(--ink-800);
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+/* Leaflet marker popup theming */
+.leaflet-popup-content-wrapper {
+  background: var(--ink-800);
+  color: var(--text-primary);
+  border-radius: var(--radius-sm);
+}
+.leaflet-popup-tip { background: var(--ink-800); }
+
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; grid-template-rows: 55vh 1fr; }
+  .side-pane { border-left: none; border-top: 1px solid var(--line); }
+}

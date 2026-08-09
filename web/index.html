@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AED Discovery Copilot — Planning &amp; Simulation Prototype</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="safety-banner" role="alert">
+    <span class="safety-banner__icon">&#9888;</span>
+    <span>
+      <strong>Prototype for planning and simulation only — not for emergency use.</strong>
+      In an emergency in Singapore, call <strong>995</strong> immediately and follow SCDF instructions.
+      Use official SCDF / myResponder channels. Do not delay emergency action to use this prototype.
+    </span>
+  </div>
+
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="topbar__mark">AED</span>
+      <div class="topbar__title">
+        <h1>Discovery Copilot</h1>
+        <p>AI decision support for public-access AED discovery &amp; planning — Singapore</p>
+      </div>
+    </div>
+    <div class="topbar__dataset">
+      <span class="dot dot--real"></span> real sample
+      <span class="dot dot--synthetic"></span> synthetic (dev only)
+      <span id="datasetCount" class="topbar__count">loading…</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="map-pane">
+      <div id="map"></div>
+      <div class="map-hint">Click anywhere on the map to simulate a query point</div>
+    </section>
+
+    <aside class="side-pane">
+
+      <div class="query-controls">
+        <h2>Simulated query</h2>
+        <div class="field-row">
+          <label for="daySelect">Day</label>
+          <select id="daySelect">
+            <option value="0">Monday</option>
+            <option value="1">Tuesday</option>
+            <option value="2">Wednesday</option>
+            <option value="3">Thursday</option>
+            <option value="4">Friday</option>
+            <option value="5" selected>Saturday</option>
+            <option value="6">Sunday</option>
+          </select>
+        </div>
+        <div class="field-row">
+          <label for="timeInput">Time</label>
+          <input type="time" id="timeInput" value="23:30" />
+        </div>
+        <p class="query-controls__hint">
+          No point selected yet — click the map. Coordinates and results
+          below are simulated, not a live position.
+        </p>
+      </div>
+
+      <div class="tabs">
+        <button class="tab tab--active" data-mode="ranker">Improved ranker</button>
+        <button class="tab" data-mode="baseline">Baseline (required minimum)</button>
+      </div>
+
+      <div id="resultsList" class="results-list">
+        <p class="results-empty">Results will appear here once you click a point on the map.</p>
+      </div>
+
+      <div class="method-note">
+        <strong>Method note:</strong> distance is an estimate
+        (straight-line &times; 1.35 urban-detour factor), not a routed
+        walking path — see <code>docs/METHOD_CARD.md</code>. Status is
+        parsed from the dataset's operating-hours text, not a live device
+        check.
+      </div>
+    </aside>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
