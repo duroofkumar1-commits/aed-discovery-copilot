@@ -1,0 +1,4632 @@
+{
+  "type": "FeatureCollection",
+  "name": "AED_LOCATIONS_DEV_SAMPLE",
+  "_notice": "Development sample only. 14 features are real (SOURCE=real_sample, Sentosa area, from the official data.gov.sg preview). All other features are SOURCE=synthetic, generated for prototype development. Replace with the organizer-frozen dataset before judging.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8183899,
+          1.258654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18662,
+        "AED_ID": "098136-004",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "22",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "SEA Aquarium",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98136",
+        "AED_LOCATION_DESCRIPTION": "Level B1M Open Ocean Habitat (Highest Tier Of Viewing Gallery)",
+        "AED_LOCATION_FLOOR_LEVEL": "B1M",
+        "INC_CRC": "0CD98DA545DAAB9D",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8187485,
+          1.25855506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18663,
+        "AED_ID": "098136-006",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "22",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "SEA Aquarium",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98136",
+        "AED_LOCATION_DESCRIPTION": "Level B1 Freshwater Lakes (Left Side Of Exhibit)",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "50C661B41C959E4A",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8203583,
+          1.25880396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18664,
+        "AED_ID": "098137-001",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "24",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "SEA Aquarium",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98137",
+        "AED_LOCATION_DESCRIPTION": "Level B1 Near SEA Aquarium Entrance Or Exit, Opposite Passenger Lift",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "613A270C404E6AE4",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8202515,
+          1.25736702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18665,
+        "AED_ID": "098138-001",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Beside Hard Rock Cafe (Beside Staircase Leading To Hard Rock Hotel)",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "3FBC0007241B3217",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820343,
+          1.25633705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18666,
+        "AED_ID": "098138-002",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level B1 VIP Car Park Beside Crash Barrier",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "CE8E0C8F7C49B7AE",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820342,
+          1.256337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18667,
+        "AED_ID": "098138-005",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level B2 Car Park Opposite Clinic (Pillar Beside Escalator)",
+        "AED_LOCATION_FLOOR_LEVEL": "B2",
+        "INC_CRC": "C58574BE140272F1",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8218842,
+          1.25717902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18668,
+        "AED_ID": "098138-006",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Walkway Outside Malaysia Food Street (Facing Water Front)",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "D6448914480317C4",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8205032,
+          1.25674796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18669,
+        "AED_ID": "098138-007",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level B1 Car Park Red Zone, Pillar L Beside Zebra Crossing To Red Zone Car Park",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "831F0D6A93F97497",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8221283,
+          1.25619495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18670,
+        "AED_ID": "098138-008",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Resorts World Sentosa",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98138",
+        "AED_LOCATION_DESCRIPTION": "Level B1 Car Park Green Zone, Pillar H Opposite Escalator To Water Front Mountain Area",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "234E941C1CF0C489",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8190308,
+          1.25730896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18671,
+        "AED_ID": "098139-002",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "28",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Hard Rock Hotel",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98139",
+        "AED_LOCATION_DESCRIPTION": "Level 2 Hard Rock Hotel Pool Towel Kiosk",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "4BB8FF3E4E6BF1BC",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8194199,
+          1.25744402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18672,
+        "AED_ID": "098139-003",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "28",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Hard Rock Hotel",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98139",
+        "AED_LOCATION_DESCRIPTION": "Level 2 Hard Rock Hotel Swimming Pool (Behind Pool Slide)",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "724639E42C5BC012",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8213806,
+          1.25622296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18673,
+        "AED_ID": "098140-001",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "30",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Universal Studios Singapore",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98140",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Beside That's A Wrap Retail Shop (Inside Lockers Area)",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "E2BC72D7FBD94B07",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82035860970434,
+          1.2588046299481725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18674,
+        "AED_ID": "098140-002",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "30",
+        "ROAD_NAME": "Sentosa Gateway",
+        "BUILDING_NAME": "Universal Studios Singapore",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "98140",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Sci-Fi Transformers Ride (Ride Unload Area)",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "PLACEHOLDER0000A",
+        "FMEL_UPD_D": "20200210102016",
+        "SOURCE": "real_sample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9535919,
+          1.3447243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30001,
+        "AED_ID": "SYN-30001",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "27",
+        "ROAD_NAME": "Tampines Avenue 4",
+        "BUILDING_NAME": "Tampines Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "134257",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030001",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9605132,
+          1.3506712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30002,
+        "AED_ID": "SYN-30002",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "22",
+        "ROAD_NAME": "Tampines Avenue 5",
+        "BUILDING_NAME": "Tampines MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "103615",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030002",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9599619,
+          1.3461838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30003,
+        "AED_ID": "SYN-30003",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "7",
+        "ROAD_NAME": "Tampines Avenue 6",
+        "BUILDING_NAME": "Tampines Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "232519",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030003",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9604855,
+          1.3508447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30004,
+        "AED_ID": "SYN-30004",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "60",
+        "ROAD_NAME": "Tampines Avenue 7",
+        "BUILDING_NAME": "Tampines Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "689785",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030004",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7451437,
+          1.3304181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30005,
+        "AED_ID": "SYN-30005",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "3",
+        "ROAD_NAME": "Jurong East Avenue 4",
+        "BUILDING_NAME": "Jurong East Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "564150",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030005",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7478638,
+          1.3387227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30006,
+        "AED_ID": "SYN-30006",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "30",
+        "ROAD_NAME": "Jurong East Avenue 6",
+        "BUILDING_NAME": "Jurong East Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "227227",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030006",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7401141,
+          1.3313422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30007,
+        "AED_ID": "SYN-30007",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "41",
+        "ROAD_NAME": "Jurong East Avenue 3",
+        "BUILDING_NAME": "Jurong East Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "442169",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030007",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7395608,
+          1.3356495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30008,
+        "AED_ID": "SYN-30008",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "Jurong East Avenue 6",
+        "BUILDING_NAME": "Jurong East Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "585422",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030008",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7927605,
+          1.4420616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30009,
+        "AED_ID": "SYN-30009",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "14",
+        "ROAD_NAME": "Woodlands Avenue 6",
+        "BUILDING_NAME": "Woodlands Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "615386",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030009",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7878476,
+          1.4400653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30010,
+        "AED_ID": "SYN-30010",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "9",
+        "ROAD_NAME": "Woodlands Avenue 4",
+        "BUILDING_NAME": "Woodlands Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "683340",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030010",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7862529,
+          1.4389364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30011,
+        "AED_ID": "SYN-30011",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "Woodlands Avenue 3",
+        "BUILDING_NAME": "Woodlands Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "647543",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030011",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7921694,
+          1.4381222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30012,
+        "AED_ID": "SYN-30012",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "51",
+        "ROAD_NAME": "Woodlands Avenue 7",
+        "BUILDING_NAME": "Woodlands Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "243504",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030012",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8465507,
+          1.3677172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30013,
+        "AED_ID": "SYN-30013",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "36",
+        "ROAD_NAME": "Ang Mo Kio Avenue 1",
+        "BUILDING_NAME": "Ang Mo Kio Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "699669",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030013",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8475805,
+          1.3717487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30014,
+        "AED_ID": "SYN-30014",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Ang Mo Kio Avenue 5",
+        "BUILDING_NAME": "Ang Mo Kio Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "785371",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030014",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8394389,
+          1.3649979
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30015,
+        "AED_ID": "SYN-30015",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "33",
+        "ROAD_NAME": "Ang Mo Kio Avenue 2",
+        "BUILDING_NAME": "Ang Mo Kio Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "439201",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030015",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8470674,
+          1.3666813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30016,
+        "AED_ID": "SYN-30016",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "49",
+        "ROAD_NAME": "Ang Mo Kio Avenue 3",
+        "BUILDING_NAME": "Ang Mo Kio Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "353504",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030016",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8504692,
+          1.374542
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30017,
+        "AED_ID": "SYN-30017",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "2",
+        "ROAD_NAME": "Ang Mo Kio Avenue 2",
+        "BUILDING_NAME": "Ang Mo Kio Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "106310",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030017",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84938,
+          1.3736447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30018,
+        "AED_ID": "SYN-30018",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "16",
+        "ROAD_NAME": "Ang Mo Kio Avenue 2",
+        "BUILDING_NAME": "Ang Mo Kio Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "494923",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030018",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8491923,
+          1.3718829
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30019,
+        "AED_ID": "SYN-30019",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Ang Mo Kio Avenue 8",
+        "BUILDING_NAME": "Ang Mo Kio Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "783060",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030019",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8457321,
+          1.3650815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30020,
+        "AED_ID": "SYN-30020",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "49",
+        "ROAD_NAME": "Ang Mo Kio Avenue 4",
+        "BUILDING_NAME": "Ang Mo Kio Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "644470",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030020",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8503985,
+          1.3565418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30021,
+        "AED_ID": "SYN-30021",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Bishan Avenue 4",
+        "BUILDING_NAME": "Bishan Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "669479",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030021",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8428524,
+          1.3453683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30022,
+        "AED_ID": "SYN-30022",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "Bishan Avenue 1",
+        "BUILDING_NAME": "Bishan Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "804770",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030022",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8433065,
+          1.3530941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30023,
+        "AED_ID": "SYN-30023",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "5",
+        "ROAD_NAME": "Bishan Avenue 9",
+        "BUILDING_NAME": "Bishan Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "181514",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030023",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848425,
+          1.3479417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30024,
+        "AED_ID": "SYN-30024",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "37",
+        "ROAD_NAME": "Bishan Avenue 8",
+        "BUILDING_NAME": "Bishan Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "793167",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030024",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85229,
+          1.3540154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30025,
+        "AED_ID": "SYN-30025",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Bishan Avenue 7",
+        "BUILDING_NAME": "Bishan Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "342545",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030025",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8482043,
+          1.3496829
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30026,
+        "AED_ID": "SYN-30026",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Bishan Avenue 6",
+        "BUILDING_NAME": "Bishan Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "162612",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030026",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9277354,
+          1.3198991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30027,
+        "AED_ID": "SYN-30027",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "18",
+        "ROAD_NAME": "Bedok Avenue 8",
+        "BUILDING_NAME": "Bedok Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "277912",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030027",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9222046,
+          1.3280938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30028,
+        "AED_ID": "SYN-30028",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "42",
+        "ROAD_NAME": "Bedok Avenue 9",
+        "BUILDING_NAME": "Bedok Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "802604",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030028",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9324164,
+          1.329228
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30029,
+        "AED_ID": "SYN-30029",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "32",
+        "ROAD_NAME": "Bedok Avenue 8",
+        "BUILDING_NAME": "Bedok Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "403724",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030029",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9321293,
+          1.3279758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30030,
+        "AED_ID": "SYN-30030",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "25",
+        "ROAD_NAME": "Bedok Avenue 5",
+        "BUILDING_NAME": "Bedok Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "317209",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030030",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7708878,
+          1.3141761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30031,
+        "AED_ID": "SYN-30031",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "13",
+        "ROAD_NAME": "Clementi Avenue 5",
+        "BUILDING_NAME": "Clementi Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "818973",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030031",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7663502,
+          1.3207245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30032,
+        "AED_ID": "SYN-30032",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "4",
+        "ROAD_NAME": "Clementi Avenue 1",
+        "BUILDING_NAME": "Clementi Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "791998",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030032",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7704326,
+          1.3148215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30033,
+        "AED_ID": "SYN-30033",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "33",
+        "ROAD_NAME": "Clementi Avenue 2",
+        "BUILDING_NAME": "Clementi Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "773579",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030033",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7602155,
+          1.3099223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30034,
+        "AED_ID": "SYN-30034",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Clementi Avenue 4",
+        "BUILDING_NAME": "Clementi Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "407615",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030034",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7668326,
+          1.3162342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30035,
+        "AED_ID": "SYN-30035",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "60",
+        "ROAD_NAME": "Clementi Avenue 5",
+        "BUILDING_NAME": "Clementi Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "639565",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030035",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7631702,
+          1.3171367
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30036,
+        "AED_ID": "SYN-30036",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Clementi Avenue 5",
+        "BUILDING_NAME": "Clementi Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "437484",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030036",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7684224,
+          1.3128941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30037,
+        "AED_ID": "SYN-30037",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "40",
+        "ROAD_NAME": "Clementi Avenue 2",
+        "BUILDING_NAME": "Clementi MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "191152",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030037",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8534824,
+          1.3308579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30038,
+        "AED_ID": "SYN-30038",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "24",
+        "ROAD_NAME": "Toa Payoh Avenue 5",
+        "BUILDING_NAME": "Toa Payoh Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "542127",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030038",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8568186,
+          1.3335582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30039,
+        "AED_ID": "SYN-30039",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Toa Payoh Avenue 9",
+        "BUILDING_NAME": "Toa Payoh Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "489666",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030039",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851543,
+          1.3394811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30040,
+        "AED_ID": "SYN-30040",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Toa Payoh Avenue 2",
+        "BUILDING_NAME": "Toa Payoh Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "275333",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030040",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8535682,
+          1.3349387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30041,
+        "AED_ID": "SYN-30041",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "44",
+        "ROAD_NAME": "Toa Payoh Avenue 5",
+        "BUILDING_NAME": "Toa Payoh Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "366617",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030041",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9073979,
+          1.4011135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30042,
+        "AED_ID": "SYN-30042",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Punggol Avenue 5",
+        "BUILDING_NAME": "Punggol MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "162512",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030042",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9057534,
+          1.3981425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30043,
+        "AED_ID": "SYN-30043",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "36",
+        "ROAD_NAME": "Punggol Avenue 7",
+        "BUILDING_NAME": "Punggol Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "433647",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030043",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8974029,
+          1.398216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30044,
+        "AED_ID": "SYN-30044",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Punggol Avenue 6",
+        "BUILDING_NAME": "Punggol Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "299938",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030044",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9016574,
+          1.4047303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30045,
+        "AED_ID": "SYN-30045",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "58",
+        "ROAD_NAME": "Punggol Avenue 1",
+        "BUILDING_NAME": "Punggol Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "156050",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030045",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8994944,
+          1.4006209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30046,
+        "AED_ID": "SYN-30046",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Punggol Avenue 7",
+        "BUILDING_NAME": "Punggol Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "236794",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030046",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9076092,
+          1.4070937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30047,
+        "AED_ID": "SYN-30047",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Punggol Avenue 7",
+        "BUILDING_NAME": "Punggol Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "403662",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030047",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9075938,
+          1.4002523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30048,
+        "AED_ID": "SYN-30048",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "11",
+        "ROAD_NAME": "Punggol Avenue 2",
+        "BUILDING_NAME": "Punggol Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "625065",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030048",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9068031,
+          1.408566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30049,
+        "AED_ID": "SYN-30049",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "23",
+        "ROAD_NAME": "Punggol Avenue 5",
+        "BUILDING_NAME": "Punggol Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "384269",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030049",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8877176,
+          1.381084
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30050,
+        "AED_ID": "SYN-30050",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "50",
+        "ROAD_NAME": "Sengkang Avenue 5",
+        "BUILDING_NAME": "Sengkang Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "525564",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030050",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8901961,
+          1.3884978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30051,
+        "AED_ID": "SYN-30051",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Sengkang Avenue 5",
+        "BUILDING_NAME": "Sengkang Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "786425",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030051",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8972026,
+          1.3877671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30052,
+        "AED_ID": "SYN-30052",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "28",
+        "ROAD_NAME": "Sengkang Avenue 6",
+        "BUILDING_NAME": "Sengkang Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "142776",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030052",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8906367,
+          1.3902371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30053,
+        "AED_ID": "SYN-30053",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "58",
+        "ROAD_NAME": "Sengkang Avenue 4",
+        "BUILDING_NAME": "Sengkang Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "752894",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030053",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8906327,
+          1.3813326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30054,
+        "AED_ID": "SYN-30054",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "24",
+        "ROAD_NAME": "Sengkang Avenue 7",
+        "BUILDING_NAME": "Sengkang Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "769821",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030054",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8368779,
+          1.4354493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30055,
+        "AED_ID": "SYN-30055",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "20",
+        "ROAD_NAME": "Yishun Avenue 7",
+        "BUILDING_NAME": "Yishun Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "255920",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030055",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329479,
+          1.4292288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30056,
+        "AED_ID": "SYN-30056",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Yishun Avenue 7",
+        "BUILDING_NAME": "Yishun Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "264143",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030056",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8314883,
+          1.4333776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30057,
+        "AED_ID": "SYN-30057",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "36",
+        "ROAD_NAME": "Yishun Avenue 1",
+        "BUILDING_NAME": "Yishun Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "825930",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030057",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8345587,
+          1.427843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30058,
+        "AED_ID": "SYN-30058",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "29",
+        "ROAD_NAME": "Yishun Avenue 4",
+        "BUILDING_NAME": "Yishun Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "518618",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030058",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.891818,
+          1.3647248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30059,
+        "AED_ID": "SYN-30059",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "33",
+        "ROAD_NAME": "Hougang Avenue 6",
+        "BUILDING_NAME": "Hougang MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "312389",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030059",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8893137,
+          1.3650211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30060,
+        "AED_ID": "SYN-30060",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "10",
+        "ROAD_NAME": "Hougang Avenue 1",
+        "BUILDING_NAME": "Hougang Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "494680",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030060",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8860016,
+          1.3581381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30061,
+        "AED_ID": "SYN-30061",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Hougang Avenue 4",
+        "BUILDING_NAME": "Hougang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "198461",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030061",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8862325,
+          1.3635563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30062,
+        "AED_ID": "SYN-30062",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "58",
+        "ROAD_NAME": "Hougang Avenue 2",
+        "BUILDING_NAME": "Hougang Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "413417",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030062",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8899493,
+          1.3578261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30063,
+        "AED_ID": "SYN-30063",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "36",
+        "ROAD_NAME": "Hougang Avenue 4",
+        "BUILDING_NAME": "Hougang Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "768611",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030063",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889917,
+          1.3606775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30064,
+        "AED_ID": "SYN-30064",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "40",
+        "ROAD_NAME": "Hougang Avenue 9",
+        "BUILDING_NAME": "Hougang Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "776198",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030064",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8868745,
+          1.3651668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30065,
+        "AED_ID": "SYN-30065",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "17",
+        "ROAD_NAME": "Hougang Avenue 4",
+        "BUILDING_NAME": "Hougang Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "308777",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030065",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8896321,
+          1.3585277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30066,
+        "AED_ID": "SYN-30066",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "29",
+        "ROAD_NAME": "Hougang Avenue 2",
+        "BUILDING_NAME": "Hougang Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "724919",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030066",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7615365,
+          1.3562606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30067,
+        "AED_ID": "SYN-30067",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "10",
+        "ROAD_NAME": "Bukit Batok Avenue 4",
+        "BUILDING_NAME": "Bukit Batok Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "792320",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030067",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766177,
+          1.3613274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30068,
+        "AED_ID": "SYN-30068",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "22",
+        "ROAD_NAME": "Bukit Batok Avenue 9",
+        "BUILDING_NAME": "Bukit Batok Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "187797",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030068",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760182,
+          1.3579893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30069,
+        "AED_ID": "SYN-30069",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "45",
+        "ROAD_NAME": "Bukit Batok Avenue 1",
+        "BUILDING_NAME": "Bukit Batok MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "637381",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030069",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7577708,
+          1.3575646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30070,
+        "AED_ID": "SYN-30070",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "55",
+        "ROAD_NAME": "Bukit Batok Avenue 7",
+        "BUILDING_NAME": "Bukit Batok Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "555892",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030070",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7642536,
+          1.3619702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30071,
+        "AED_ID": "SYN-30071",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "18",
+        "ROAD_NAME": "Bukit Batok Avenue 7",
+        "BUILDING_NAME": "Bukit Batok Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "388999",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030071",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7617336,
+          1.3533483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30072,
+        "AED_ID": "SYN-30072",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "59",
+        "ROAD_NAME": "Bukit Batok Avenue 3",
+        "BUILDING_NAME": "Bukit Batok MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "613704",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030072",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8226282,
+          1.2762236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30073,
+        "AED_ID": "SYN-30073",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "42",
+        "ROAD_NAME": "Bukit Merah Avenue 7",
+        "BUILDING_NAME": "Bukit Merah Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "821444",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030073",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8200807,
+          1.2863022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30074,
+        "AED_ID": "SYN-30074",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "14",
+        "ROAD_NAME": "Bukit Merah Avenue 8",
+        "BUILDING_NAME": "Bukit Merah Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "437211",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030074",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284557,
+          1.27995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30075,
+        "AED_ID": "SYN-30075",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Bukit Merah Avenue 2",
+        "BUILDING_NAME": "Bukit Merah Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "457906",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030075",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824373,
+          1.2761326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30076,
+        "AED_ID": "SYN-30076",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "50",
+        "ROAD_NAME": "Bukit Merah Avenue 1",
+        "BUILDING_NAME": "Bukit Merah MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "544673",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030076",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8202923,
+          1.2872953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30077,
+        "AED_ID": "SYN-30077",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "9",
+        "ROAD_NAME": "Bukit Merah Avenue 8",
+        "BUILDING_NAME": "Bukit Merah Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "123496",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030077",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8292731,
+          1.2772727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30078,
+        "AED_ID": "SYN-30078",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "11",
+        "ROAD_NAME": "Bukit Merah Avenue 2",
+        "BUILDING_NAME": "Bukit Merah Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "695198",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030078",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8191972,
+          1.2874766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30079,
+        "AED_ID": "SYN-30079",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "44",
+        "ROAD_NAME": "Bukit Merah Avenue 7",
+        "BUILDING_NAME": "Bukit Merah Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "136111",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030079",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82028,
+          1.2871976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30080,
+        "AED_ID": "SYN-30080",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "55",
+        "ROAD_NAME": "Bukit Merah Avenue 2",
+        "BUILDING_NAME": "Bukit Merah Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "412669",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030080",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8051405,
+          1.2923664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30081,
+        "AED_ID": "SYN-30081",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "42",
+        "ROAD_NAME": "Queenstown Avenue 6",
+        "BUILDING_NAME": "Queenstown Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "572129",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030081",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809868,
+          1.2983949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30082,
+        "AED_ID": "SYN-30082",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "41",
+        "ROAD_NAME": "Queenstown Avenue 8",
+        "BUILDING_NAME": "Queenstown Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "238102",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030082",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8021136,
+          1.2900359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30083,
+        "AED_ID": "SYN-30083",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "52",
+        "ROAD_NAME": "Queenstown Avenue 9",
+        "BUILDING_NAME": "Queenstown Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "765425",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030083",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8099088,
+          1.2937785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30084,
+        "AED_ID": "SYN-30084",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Queenstown Avenue 2",
+        "BUILDING_NAME": "Queenstown MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "446280",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030084",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8029264,
+          1.2987796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30085,
+        "AED_ID": "SYN-30085",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "2",
+        "ROAD_NAME": "Queenstown Avenue 8",
+        "BUILDING_NAME": "Queenstown Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "697209",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030085",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8025454,
+          1.2903821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30086,
+        "AED_ID": "SYN-30086",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "57",
+        "ROAD_NAME": "Queenstown Avenue 5",
+        "BUILDING_NAME": "Queenstown Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "436576",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030086",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8113768,
+          1.2883218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30087,
+        "AED_ID": "SYN-30087",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "32",
+        "ROAD_NAME": "Queenstown Avenue 9",
+        "BUILDING_NAME": "Queenstown Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "204954",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030087",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8077508,
+          1.2964873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30088,
+        "AED_ID": "SYN-30088",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "6",
+        "ROAD_NAME": "Queenstown Avenue 5",
+        "BUILDING_NAME": "Queenstown Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "728342",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030088",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8414745,
+          1.3223014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30089,
+        "AED_ID": "SYN-30089",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "34",
+        "ROAD_NAME": "Novena Avenue 6",
+        "BUILDING_NAME": "Novena Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "578753",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030089",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8444047,
+          1.3259596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30090,
+        "AED_ID": "SYN-30090",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "20",
+        "ROAD_NAME": "Novena Avenue 5",
+        "BUILDING_NAME": "Novena Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "558434",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030090",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840111,
+          1.3154479
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30091,
+        "AED_ID": "SYN-30091",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "13",
+        "ROAD_NAME": "Novena Avenue 4",
+        "BUILDING_NAME": "Novena Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "259779",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030091",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846495,
+          1.3198104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30092,
+        "AED_ID": "SYN-30092",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Novena Avenue 4",
+        "BUILDING_NAME": "Novena Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "775636",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030092",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8399533,
+          1.3167298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30093,
+        "AED_ID": "SYN-30093",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "18",
+        "ROAD_NAME": "Novena Avenue 1",
+        "BUILDING_NAME": "Novena Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "119751",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030093",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8371291,
+          1.3023056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30094,
+        "AED_ID": "SYN-30094",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "37",
+        "ROAD_NAME": "Orchard Avenue 5",
+        "BUILDING_NAME": "Orchard Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "722680",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030094",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8298885,
+          1.3045446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30095,
+        "AED_ID": "SYN-30095",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Orchard Avenue 2",
+        "BUILDING_NAME": "Orchard MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "165136",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030095",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8327243,
+          1.304701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30096,
+        "AED_ID": "SYN-30096",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "52",
+        "ROAD_NAME": "Orchard Avenue 5",
+        "BUILDING_NAME": "Orchard Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "163485",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030096",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8272214,
+          1.310727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30097,
+        "AED_ID": "SYN-30097",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "25",
+        "ROAD_NAME": "Orchard Avenue 8",
+        "BUILDING_NAME": "Orchard Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "634697",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030097",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8578804,
+          1.297422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30098,
+        "AED_ID": "SYN-30098",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "48",
+        "ROAD_NAME": "City Hall Avenue 2",
+        "BUILDING_NAME": "City Hall Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "491986",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030098",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8491758,
+          1.2946062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30099,
+        "AED_ID": "SYN-30099",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "12",
+        "ROAD_NAME": "City Hall Avenue 9",
+        "BUILDING_NAME": "City Hall Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "203573",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030099",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8509022,
+          1.2889784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30100,
+        "AED_ID": "SYN-30100",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "City Hall Avenue 5",
+        "BUILDING_NAME": "City Hall Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "705771",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030100",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8563153,
+          1.2904926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30101,
+        "AED_ID": "SYN-30101",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "51",
+        "ROAD_NAME": "City Hall Avenue 4",
+        "BUILDING_NAME": "City Hall Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "194824",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030101",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8486977,
+          1.2884773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30102,
+        "AED_ID": "SYN-30102",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "5",
+        "ROAD_NAME": "City Hall Avenue 1",
+        "BUILDING_NAME": "City Hall Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "295352",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030102",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8531405,
+          1.2966115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30103,
+        "AED_ID": "SYN-30103",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "City Hall Avenue 8",
+        "BUILDING_NAME": "City Hall Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "825728",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030103",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8508301,
+          1.2907491
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30104,
+        "AED_ID": "SYN-30104",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "32",
+        "ROAD_NAME": "City Hall Avenue 8",
+        "BUILDING_NAME": "City Hall Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "449199",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030104",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8581843,
+          1.2751783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30105,
+        "AED_ID": "SYN-30105",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "6",
+        "ROAD_NAME": "Marina Bay Avenue 4",
+        "BUILDING_NAME": "Marina Bay Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "515102",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030105",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8599024,
+          1.2847315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30106,
+        "AED_ID": "SYN-30106",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "3",
+        "ROAD_NAME": "Marina Bay Avenue 3",
+        "BUILDING_NAME": "Marina Bay Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "125415",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030106",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8583068,
+          1.2809276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30107,
+        "AED_ID": "SYN-30107",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "28",
+        "ROAD_NAME": "Marina Bay Avenue 8",
+        "BUILDING_NAME": "Marina Bay MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "453973",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030107",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8579002,
+          1.2803401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30108,
+        "AED_ID": "SYN-30108",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "22",
+        "ROAD_NAME": "Marina Bay Avenue 7",
+        "BUILDING_NAME": "Marina Bay Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "512713",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030108",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8721054,
+          1.351351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30109,
+        "AED_ID": "SYN-30109",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "6",
+        "ROAD_NAME": "Serangoon Avenue 6",
+        "BUILDING_NAME": "Serangoon Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "801601",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030109",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8789422,
+          1.3472793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30110,
+        "AED_ID": "SYN-30110",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Serangoon Avenue 9",
+        "BUILDING_NAME": "Serangoon Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "619431",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030110",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869551,
+          1.348359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30111,
+        "AED_ID": "SYN-30111",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "49",
+        "ROAD_NAME": "Serangoon Avenue 1",
+        "BUILDING_NAME": "Serangoon MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "569167",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030111",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8688722,
+          1.3466047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30112,
+        "AED_ID": "SYN-30112",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Serangoon Avenue 1",
+        "BUILDING_NAME": "Serangoon Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "468178",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030112",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8701716,
+          1.3507065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30113,
+        "AED_ID": "SYN-30113",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "1",
+        "ROAD_NAME": "Serangoon Avenue 9",
+        "BUILDING_NAME": "Serangoon Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "306091",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030113",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8792071,
+          1.3445185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30114,
+        "AED_ID": "SYN-30114",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "42",
+        "ROAD_NAME": "Serangoon Avenue 3",
+        "BUILDING_NAME": "Serangoon Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "248560",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030114",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8708023,
+          1.3545918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30115,
+        "AED_ID": "SYN-30115",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "31",
+        "ROAD_NAME": "Serangoon Avenue 4",
+        "BUILDING_NAME": "Serangoon MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "447807",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030115",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9436873,
+          1.3678357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30116,
+        "AED_ID": "SYN-30116",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "18",
+        "ROAD_NAME": "Pasir Ris Avenue 7",
+        "BUILDING_NAME": "Pasir Ris Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "753236",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030116",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9474929,
+          1.377311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30117,
+        "AED_ID": "SYN-30117",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "54",
+        "ROAD_NAME": "Pasir Ris Avenue 8",
+        "BUILDING_NAME": "Pasir Ris Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "105634",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030117",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9472121,
+          1.3714586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30118,
+        "AED_ID": "SYN-30118",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "30",
+        "ROAD_NAME": "Pasir Ris Avenue 6",
+        "BUILDING_NAME": "Pasir Ris Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "529903",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030118",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9442657,
+          1.3778693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30119,
+        "AED_ID": "SYN-30119",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "3",
+        "ROAD_NAME": "Pasir Ris Avenue 6",
+        "BUILDING_NAME": "Pasir Ris Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "594826",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030119",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9523612,
+          1.3717757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30120,
+        "AED_ID": "SYN-30120",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "32",
+        "ROAD_NAME": "Pasir Ris Avenue 1",
+        "BUILDING_NAME": "Pasir Ris Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "587325",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030120",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9484822,
+          1.3721275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30121,
+        "AED_ID": "SYN-30121",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "34",
+        "ROAD_NAME": "Pasir Ris Avenue 8",
+        "BUILDING_NAME": "Pasir Ris Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "228213",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030121",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9463197,
+          1.3747693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30122,
+        "AED_ID": "SYN-30122",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "51",
+        "ROAD_NAME": "Pasir Ris Avenue 5",
+        "BUILDING_NAME": "Pasir Ris Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "292225",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030122",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.748798,
+          1.3863125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30123,
+        "AED_ID": "SYN-30123",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "21",
+        "ROAD_NAME": "Choa Chu Kang Avenue 8",
+        "BUILDING_NAME": "Choa Chu Kang Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "529742",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030123",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.741821,
+          1.3784308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30124,
+        "AED_ID": "SYN-30124",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "28",
+        "ROAD_NAME": "Choa Chu Kang Avenue 2",
+        "BUILDING_NAME": "Choa Chu Kang Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "464727",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030124",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7422061,
+          1.3864467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30125,
+        "AED_ID": "SYN-30125",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "3",
+        "ROAD_NAME": "Choa Chu Kang Avenue 6",
+        "BUILDING_NAME": "Choa Chu Kang Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "315906",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030125",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7454981,
+          1.3815204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30126,
+        "AED_ID": "SYN-30126",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "27",
+        "ROAD_NAME": "Choa Chu Kang Avenue 3",
+        "BUILDING_NAME": "Choa Chu Kang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "285000",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030126",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7483139,
+          1.3801008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30127,
+        "AED_ID": "SYN-30127",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "59",
+        "ROAD_NAME": "Choa Chu Kang Avenue 3",
+        "BUILDING_NAME": "Choa Chu Kang Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "584945",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030127",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7440477,
+          1.3835338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30128,
+        "AED_ID": "SYN-30128",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "58",
+        "ROAD_NAME": "Choa Chu Kang Avenue 5",
+        "BUILDING_NAME": "Choa Chu Kang Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "421153",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030128",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7772428,
+          1.3722863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30129,
+        "AED_ID": "SYN-30129",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "30",
+        "ROAD_NAME": "Bukit Panjang Avenue 5",
+        "BUILDING_NAME": "Bukit Panjang Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "487951",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030129",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77614,
+          1.3833925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30130,
+        "AED_ID": "SYN-30130",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "37",
+        "ROAD_NAME": "Bukit Panjang Avenue 6",
+        "BUILDING_NAME": "Bukit Panjang Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "234886",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030130",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7742913,
+          1.3749505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30131,
+        "AED_ID": "SYN-30131",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "1",
+        "ROAD_NAME": "Bukit Panjang Avenue 1",
+        "BUILDING_NAME": "Bukit Panjang Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "127484",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030131",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7758941,
+          1.3803421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30132,
+        "AED_ID": "SYN-30132",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "52",
+        "ROAD_NAME": "Bukit Panjang Avenue 6",
+        "BUILDING_NAME": "Bukit Panjang Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "464770",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030132",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7733507,
+          1.3790394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30133,
+        "AED_ID": "SYN-30133",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "20",
+        "ROAD_NAME": "Bukit Panjang Avenue 8",
+        "BUILDING_NAME": "Bukit Panjang Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "272591",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030133",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7746883,
+          1.3783549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30134,
+        "AED_ID": "SYN-30134",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "48",
+        "ROAD_NAME": "Bukit Panjang Avenue 7",
+        "BUILDING_NAME": "Bukit Panjang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "215835",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030134",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7753382,
+          1.3738095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30135,
+        "AED_ID": "SYN-30135",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "59",
+        "ROAD_NAME": "Bukit Panjang Avenue 5",
+        "BUILDING_NAME": "Bukit Panjang Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "569697",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030135",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7757963,
+          1.3744836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30136,
+        "AED_ID": "SYN-30136",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "52",
+        "ROAD_NAME": "Bukit Panjang Avenue 2",
+        "BUILDING_NAME": "Bukit Panjang Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "715835",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030136",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888398,
+          1.3096891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30137,
+        "AED_ID": "SYN-30137",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "51",
+        "ROAD_NAME": "Geylang Avenue 7",
+        "BUILDING_NAME": "Geylang Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "606992",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030137",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8782831,
+          1.3111735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30138,
+        "AED_ID": "SYN-30138",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "25",
+        "ROAD_NAME": "Geylang Avenue 6",
+        "BUILDING_NAME": "Geylang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "575295",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030138",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8824577,
+          1.316098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30139,
+        "AED_ID": "SYN-30139",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "Geylang Avenue 2",
+        "BUILDING_NAME": "Geylang Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "816374",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030139",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8877127,
+          1.3178863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30140,
+        "AED_ID": "SYN-30140",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "9",
+        "ROAD_NAME": "Geylang Avenue 1",
+        "BUILDING_NAME": "Geylang Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "487689",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030140",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8827115,
+          1.3116524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30141,
+        "AED_ID": "SYN-30141",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "9",
+        "ROAD_NAME": "Geylang Avenue 7",
+        "BUILDING_NAME": "Geylang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "224846",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030141",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8881926,
+          1.3124521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30142,
+        "AED_ID": "SYN-30142",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "48",
+        "ROAD_NAME": "Geylang Avenue 3",
+        "BUILDING_NAME": "Geylang MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "797866",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030142",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8868043,
+          1.3158591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30143,
+        "AED_ID": "SYN-30143",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "45",
+        "ROAD_NAME": "Geylang Avenue 6",
+        "BUILDING_NAME": "Geylang Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "625583",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030143",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8619334,
+          1.3093364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30144,
+        "AED_ID": "SYN-30144",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "35",
+        "ROAD_NAME": "Kallang Avenue 6",
+        "BUILDING_NAME": "Kallang MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "562627",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030144",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8613777,
+          1.3087777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30145,
+        "AED_ID": "SYN-30145",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "43",
+        "ROAD_NAME": "Kallang Avenue 4",
+        "BUILDING_NAME": "Kallang Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "258450",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030145",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8707531,
+          1.3116739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30146,
+        "AED_ID": "SYN-30146",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "9",
+        "ROAD_NAME": "Kallang Avenue 4",
+        "BUILDING_NAME": "Kallang Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "166464",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030146",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8657505,
+          1.3139578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30147,
+        "AED_ID": "SYN-30147",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "50",
+        "ROAD_NAME": "Kallang Avenue 3",
+        "BUILDING_NAME": "Kallang Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "374817",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030147",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8694009,
+          1.304034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30148,
+        "AED_ID": "SYN-30148",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "17",
+        "ROAD_NAME": "Kallang Avenue 3",
+        "BUILDING_NAME": "Kallang Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "283129",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030148",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8123816,
+          1.2939974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30149,
+        "AED_ID": "SYN-30149",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "21",
+        "ROAD_NAME": "Redhill Avenue 1",
+        "BUILDING_NAME": "Redhill Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "554898",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030149",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8123211,
+          1.2867844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30150,
+        "AED_ID": "SYN-30150",
+        "OPERATING_HOURS": "Mon - Fri 08:00-17:00; Sat 08:00-13:00;",
+        "HOUSE_NUMBER": "48",
+        "ROAD_NAME": "Redhill Avenue 2",
+        "BUILDING_NAME": "Redhill Polyclinic",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "639619",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Main Lobby Beside Registration",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030150",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8151445,
+          1.2889793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30151,
+        "AED_ID": "SYN-30151",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "15",
+        "ROAD_NAME": "Redhill Avenue 1",
+        "BUILDING_NAME": "Redhill MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "238405",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030151",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8212038,
+          1.2929987
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30152,
+        "AED_ID": "SYN-30152",
+        "OPERATING_HOURS": "Mon - Sun 05:00-01:00;",
+        "HOUSE_NUMBER": "42",
+        "ROAD_NAME": "Redhill Avenue 1",
+        "BUILDING_NAME": "Redhill Bus Interchange",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "765941",
+        "AED_LOCATION_DESCRIPTION": "Commuter Concourse Beside Information Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030152",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8450153,
+          1.2803676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30153,
+        "AED_ID": "SYN-30153",
+        "OPERATING_HOURS": "Mon - Sun 05:30-00:30;",
+        "HOUSE_NUMBER": "5",
+        "ROAD_NAME": "Tanjong Pagar Avenue 2",
+        "BUILDING_NAME": "Tanjong Pagar MRT Station",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "239032",
+        "AED_LOCATION_DESCRIPTION": "Concourse Level Beside Passenger Service Centre",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030153",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8406882,
+          1.2774996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30154,
+        "AED_ID": "SYN-30154",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "25",
+        "ROAD_NAME": "Tanjong Pagar Avenue 9",
+        "BUILDING_NAME": "Tanjong Pagar Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "459984",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030154",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8471651,
+          1.2756446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30155,
+        "AED_ID": "SYN-30155",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "47",
+        "ROAD_NAME": "Tanjong Pagar Avenue 4",
+        "BUILDING_NAME": "Tanjong Pagar Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "222874",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030155",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8426419,
+          1.2756187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30156,
+        "AED_ID": "SYN-30156",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "27",
+        "ROAD_NAME": "Tanjong Pagar Avenue 2",
+        "BUILDING_NAME": "Tanjong Pagar Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "538430",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030156",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8237587,
+          1.2834503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30157,
+        "AED_ID": "SYN-30157",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "6",
+        "ROAD_NAME": "Tiong Bahru Avenue 2",
+        "BUILDING_NAME": "Tiong Bahru Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "298770",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030157",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8296351,
+          1.2848825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30158,
+        "AED_ID": "SYN-30158",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "4",
+        "ROAD_NAME": "Tiong Bahru Avenue 9",
+        "BUILDING_NAME": "Tiong Bahru Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "573131",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030158",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8221668,
+          1.2836558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30159,
+        "AED_ID": "SYN-30159",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "19",
+        "ROAD_NAME": "Tiong Bahru Avenue 5",
+        "BUILDING_NAME": "Tiong Bahru Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "557929",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030159",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826789,
+          1.2809432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30160,
+        "AED_ID": "SYN-30160",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "55",
+        "ROAD_NAME": "Tiong Bahru Avenue 2",
+        "BUILDING_NAME": "Tiong Bahru Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "298900",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030160",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8251107,
+          1.2898445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30161,
+        "AED_ID": "SYN-30161",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "55",
+        "ROAD_NAME": "Tiong Bahru Avenue 9",
+        "BUILDING_NAME": "Tiong Bahru Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "454705",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030161",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284124,
+          1.2870629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30162,
+        "AED_ID": "SYN-30162",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "12",
+        "ROAD_NAME": "Tiong Bahru Avenue 5",
+        "BUILDING_NAME": "Tiong Bahru Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "135381",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030162",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7861769,
+          1.3054123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30163,
+        "AED_ID": "SYN-30163",
+        "OPERATING_HOURS": "Mon - Sun 06:00-22:00;",
+        "HOUSE_NUMBER": "10",
+        "ROAD_NAME": "Buona Vista Avenue 1",
+        "BUILDING_NAME": "Buona Vista Hawker Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "287566",
+        "AED_LOCATION_DESCRIPTION": "Centre Management Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030163",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7865816,
+          1.3101533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30164,
+        "AED_ID": "SYN-30164",
+        "OPERATING_HOURS": "Mon - Sun 07:00-22:00;",
+        "HOUSE_NUMBER": "11",
+        "ROAD_NAME": "Buona Vista Avenue 6",
+        "BUILDING_NAME": "Buona Vista Sports Hall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "638432",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030164",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793322,
+          1.3098592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30165,
+        "AED_ID": "SYN-30165",
+        "OPERATING_HOURS": "Mon - Sun 09:00-21:00;",
+        "HOUSE_NUMBER": "10",
+        "ROAD_NAME": "Buona Vista Avenue 3",
+        "BUILDING_NAME": "Buona Vista Residents' Committee Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "822391",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Notice Board Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030165",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784979,
+          1.3017971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30166,
+        "AED_ID": "SYN-30166",
+        "OPERATING_HOURS": "Mon - Sun 08:00-22:00;",
+        "HOUSE_NUMBER": "39",
+        "ROAD_NAME": "Buona Vista Avenue 8",
+        "BUILDING_NAME": "Buona Vista Community Club",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "667947",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Foyer Beside Reception Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030166",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7930593,
+          1.304478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30167,
+        "AED_ID": "SYN-30167",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "8",
+        "ROAD_NAME": "Buona Vista Avenue 5",
+        "BUILDING_NAME": "Buona Vista Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "246655",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030167",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7898396,
+          1.3093418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30168,
+        "AED_ID": "SYN-30168",
+        "OPERATING_HOURS": "Mon - Sun 00:00-23:59;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Buona Vista Avenue 1",
+        "BUILDING_NAME": "Buona Vista Neighbourhood Police Centre",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "491744",
+        "AED_LOCATION_DESCRIPTION": "Ground Floor Public Waiting Area",
+        "AED_LOCATION_FLOOR_LEVEL": "1",
+        "INC_CRC": "SYN00030168",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7924348,
+          1.308917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30169,
+        "AED_ID": "SYN-30169",
+        "OPERATING_HOURS": "Mon - Fri 07:00-19:00;",
+        "HOUSE_NUMBER": "21",
+        "ROAD_NAME": "Holland Village Avenue 2",
+        "BUILDING_NAME": "Holland Village Primary School",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "275186",
+        "AED_LOCATION_DESCRIPTION": "General Office Frontage",
+        "AED_LOCATION_FLOOR_LEVEL": "2",
+        "INC_CRC": "SYN00030169",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7950679,
+          1.3112686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30170,
+        "AED_ID": "SYN-30170",
+        "OPERATING_HOURS": "Mon - Sun 10:00-22:00;",
+        "HOUSE_NUMBER": "46",
+        "ROAD_NAME": "Holland Village Avenue 4",
+        "BUILDING_NAME": "Holland Village Shopping Mall",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "267229",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Customer Service Counter",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030170",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7979166,
+          1.3120047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30171,
+        "AED_ID": "SYN-30171",
+        "OPERATING_HOURS": "Mon - Sun 10:00-21:00;",
+        "HOUSE_NUMBER": "56",
+        "ROAD_NAME": "Holland Village Avenue 1",
+        "BUILDING_NAME": "Holland Village Public Library",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "552180",
+        "AED_LOCATION_DESCRIPTION": "Level 1 Entrance Beside Book Drop",
+        "AED_LOCATION_FLOOR_LEVEL": "B1",
+        "INC_CRC": "SYN00030171",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8009539,
+          1.3055249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30172,
+        "AED_ID": "SYN-30172",
+        "OPERATING_HOURS": "Mon - Sun 08:00-21:00;",
+        "HOUSE_NUMBER": "26",
+        "ROAD_NAME": "Holland Village Avenue 7",
+        "BUILDING_NAME": "Holland Village Swimming Complex",
+        "UNIT_NUMBER": null,
+        "POSTAL_CODE": "508033",
+        "AED_LOCATION_DESCRIPTION": "Entrance Lobby Beside Ticketing",
+        "AED_LOCATION_FLOOR_LEVEL": "G",
+        "INC_CRC": "SYN00030172",
+        "FMEL_UPD_D": "20260101000000",
+        "SOURCE": "synthetic"
+      }
+    }
+  ]
+}
