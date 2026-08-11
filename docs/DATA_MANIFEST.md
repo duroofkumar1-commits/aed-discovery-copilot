@@ -27,12 +27,6 @@ Every feature in the GeoJSON carries a `SOURCE` property:
 - `"real_sample"` — one of the 13 verbatim preview records
 - `"synthetic"` — generated for development only
 
-**Before submitting to the actual hackathon**, replace this file with the
-organizer-frozen copy (or a fresh `GEOJSON` download from the dataset
-page) and re-run `src/evaluate.py`. The ranking and parsing code in
-`src/` does not depend on which records are real vs. synthetic, so this
-is a data swap, not a code change — just update `DATA_PATH` in
-`src/evaluate.py` / `web/app.js`'s `DATA_URL` if the filename changes.
 
 ## What this dataset does not contain
 
