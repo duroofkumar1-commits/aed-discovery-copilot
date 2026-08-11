@@ -1,0 +1,8 @@
+# This repository contains Python evaluation code, but the Vercel deployment is the static web demo.
+# Exclude Python/backend artifacts so Vercel does not try to detect a Python entrypoint.
+*.py
+**/*.py
+requirements.txt
+src/
+docs/
+aed-discovery-copilot.zip
